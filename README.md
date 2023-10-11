@@ -4,7 +4,7 @@
 
 ![Resultado final do projeto](assets/img/preview.png)
 
-<h4 align="center"><a href="https://portfolio-project-chi-lake.vercel.app" target="_blank">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://portfolio-project-chi-lake.vercel.app">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
 
