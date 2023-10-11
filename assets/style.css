@@ -435,6 +435,7 @@ span {
 .skills-container {
   display: flex;
   margin-top: 50px;
+  justify-content: center;
 }
 
 .skills-container .skill {
